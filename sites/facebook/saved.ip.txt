@@ -1,0 +1,4 @@
+IP: 2409:4072:887:21bf:7021:e3f0:1af0:a587
+ User-Agent: WhatsApp/2.20.64 AIP: 106.198.77.174
+ User-Agent: Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36IP: 2409:4072:6e82:b4bb:b9e8:ded9:69e4:5584
+ User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36
